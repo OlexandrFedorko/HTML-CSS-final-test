@@ -1,0 +1,179 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.header {
+    background-image: url(img/bg.jpg);
+    width: 100%;
+    height: 675px;
+    font-family: 'Anton', sans-serif;
+
+
+
+}
+
+.menu {
+    display: flex;
+
+
+}
+
+.logo {
+    margin-left: 10%;
+    margin-top: 5%;
+
+
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.link {
+    margin-left: 15%;
+    margin-top: 5%;
+    width: 100%;
+
+
+
+}
+
+.link_header {
+    text-decoration: none;
+    color: white;
+    margin-left: 3%;
+    font-size: 20 px;
+
+}
+
+
+
+a:hover { 
+    text-decoration: underline;
+    color: pink;
+}
+
+.iphone_text {
+    width: 100%;
+    height: 400px;
+    background-color: rgba(24, 15, 15, 0.48);
+    margin-top: 3%;
+    display: flex;
+
+}
+
+.text {
+    width: 35%;
+    margin-left: 20%;
+    margin-top: 5%;
+
+}
+
+.about_our_company {
+    width: 100%;
+    height: 250px;
+    background: linear-gradient(to top, #382940, #724f81);
+    display: flex;
+    font-family: 'Anton', sans-serif;
+}
+
+.txt {
+    width: 20%;
+    margin-left: 10%;
+    margin-top: 2.5%;
+    color: white;
+}
+
+.txt_one {
+    font-size: 20px;
+}
+
+.txt_two {
+    font-size: 15px;
+    margin-top: 2%;
+
+}
+
+button {
+    margin-top: 2.5%;
+    margin-left: 60%;
+    background-color: Transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    color: white;
+}
+.content{
+    
+    
+    display: flex;
+    margin-left: 10%;
+    margin-top: 2.5%;
+    font-family: 'Anton', sans-serif;
+}
+.txt_fore{
+    
+    box-shadow: 0 0 5px rgba(0,0,0,0.3); /* Параметры тени */
+    padding: 10px;
+    height: 200px;
+    
+    width: 20%;
+    
+}
+.pink{
+    color: #edbfff;
+}
+.big{
+    
+    font-size: 20px;
+}
+
+
+.content_two{
+    margin-left: 40%;
+    width: 30%;
+}
+.position , .position_two , .position_tree {
+    display: flex;
+    margin-top: 5%;
+}
+.txt_tree{
+    margin-left: 3%;
+}
+.partners{
+    margin-top: 5%;
+    margin-left: 25%;
+}
+.txt_five{
+    width: 20%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+
+.prava{
+    font-family: 'Anton', sans-serif;
+    background-color: #ececec;
+
+    display: flex;
+    height: 300px;
+    margin-top: 10%;
+}
+.footer{
+    height: 100px;
+}
+.footer_nav{
+     font-family: 'Anton', sans-serif;
+    margin-top: 3%;
+    margin-left: 2%;
+    text-decoration: none;
+    /*color: white;*/
+}
+.Designed{
+    margin-left: 70%;
+    font-family: 'Anton', sans-serif;
+
+}
